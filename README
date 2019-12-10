@@ -1,0 +1,8 @@
+This is my unix shell for project 1.  The program is compiled by typing "make" into the command line and hitting enter.  
+After compiling, type ./myshell to start the program.
+In order to take command line input from the shell, start the program and then type your commands. 
+If you would like to input a file containing commands, you may do one of the following:
+1. Compile and then type "./myshell filename", where filename is the name of your file containing commands.  
+2. Compile and run ./myshell. Once the program is running, type "myshell filename", where the filename is the name of your file containing commands.
+In both cases, the shell will run the commands and then terminate the program.
+Enjoy!
